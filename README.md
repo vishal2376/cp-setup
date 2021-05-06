@@ -71,7 +71,7 @@
 
 ### How to use snippets
 - Just type **code** and press `TAB`
-- <img src="screenshots/snippets.png" alt="snippets" width="auto"> 
+<img src="screenshots/snippets.png" alt="snippets" width="auto"> 
 
 ## Bonus :
 
@@ -85,7 +85,7 @@ Sno. | Package Name | Short Description
 
 
 ## Credits :
-- Template credit : [Priyansh Agarwal](@priyansh19077) 
+- Template credit : [Priyansh Agarwal](https://github.com/priyansh19077) 
 
 ## More projects : 
    
