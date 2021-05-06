@@ -18,7 +18,8 @@
 
 ## Installation :
 - Download [Sublime Text](https://www.sublimetext.com/docs/3/linux_repositories.html)
-- Install g++ compiler to run c++ files
+- Install g++ compiler to run c++ files 
+- Open Terminal and type 
 	```bash
  	sudo apt-get install g++
 	```
